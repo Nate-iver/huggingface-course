@@ -1,0 +1,14 @@
+# Cloud/server-friendly dependencies for 7/Text_Summarization.ipynb
+# Install torch separately if your server needs a specific CPU or CUDA wheel.
+
+accelerate==1.13.0
+datasets==4.8.4
+evaluate==0.4.6
+huggingface_hub==0.36.2
+nltk==3.9.4
+numpy==2.2.6
+pandas==2.3.3
+rouge-score==0.1.2
+scikit-learn==1.7.2
+sentencepiece==0.2.1
+transformers==4.40.0
